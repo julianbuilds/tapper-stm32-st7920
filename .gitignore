@@ -1,0 +1,39 @@
+# ---------------------------------------------------------------
+# Compilación de STM32CubeIDE (se regenera al compilar)
+# ---------------------------------------------------------------
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+
+# Configuración de depuración: contiene rutas de tu computador
+*.launch
+
+# ---------------------------------------------------------------
+# Drivers de ST: se conserva solo lo necesario para compilar
+# (HAL Inc/Src, CMSIS/Include y CMSIS/Device). Se excluye lo pesado.
+# ---------------------------------------------------------------
+Drivers/CMSIS/DSP/
+Drivers/CMSIS/Lib/
+Drivers/CMSIS/docs/
+Drivers/CMSIS/Core/
+Drivers/CMSIS/Core_A/
+Drivers/CMSIS/NN/
+Drivers/CMSIS/RTOS/
+Drivers/CMSIS/RTOS2/
+Drivers/CMSIS/*.pdsc
+Drivers/STM32F7xx_HAL_Driver/*.chm
+Drivers/STM32F7xx_HAL_Driver/_htmresc/
+Drivers/STM32F7xx_HAL_Driver/Release_Notes.html
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+*.swp
