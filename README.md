@@ -4,7 +4,7 @@ Juego de cantina tipo arcade hecho en C con HAL para la **NUCLEO-F767ZI**. Se ju
 **teclado matricial 4x4** y se muestra en una **pantalla gráfica ST7920 de 128x64** (modo paralelo de 4 bits).
 Proyecto del Laboratorio de Microcontroladores — Ingeniería Electrónica, UPTC (Tunja, Colombia).
 
-> 📷 ![Montaje del juego](docs/pantalla_inicio.png)
+> 📷 
 
 ## ¿Cómo se juega?
 
