@@ -69,4 +69,4 @@ Drivers/ HAL y CMSIS de STMicroelectronics (solo lo necesario para compilar)
 
 - Autor: **Julian** — [github.com/julianbuilds](https://github.com/julianbuilds)
 - Carpeta `Drivers/`: HAL de STMicroelectronics y CMSIS de Arm, con sus licencias incluidas en cada subcarpeta.
-- Licencia del código propio: _elige una (por ejemplo MIT) y agrega un archivo `LICENSE`_.
+- Licencia del código propio: MIT `LICENSE`_.
